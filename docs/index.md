@@ -11,6 +11,36 @@ Deze repository bevat interactieve Python-oefeningen die aansluiten bij het Belg
 Deze notebooks vormen samen één geïntegreerde waterdesign-workflow: 
 van wateranalyse tot automatische stijlgebaseerde optimalisatie.
 
+## Leerpad – Geïntegreerd waterdesign
+
+Deze zes notebooks vormen samen één coherente ontwerpcyclus voor brouwwater.  
+Ze bouwen conceptueel én computationeel op elkaar voort.
+
+**Aanbevolen volgorde:**
+
+1. **Zuur-basische basis (HH-model)**  
+   Begrijp hoe bufferwerking en zuurtoevoeging de maisch-pH beïnvloeden.
+
+2. **Wateranalyse & Residual Alkalinity (RA)**  
+   Analyseer een bestaand waterprofiel en evalueer de geschiktheid voor verschillende bierstijlen.
+
+3. **Waterblending**  
+   Ontwerp mengstrategieën (bv. leidingwater + RO-water) om een doelprofiel te benaderen.
+
+4. **Zouttoevoegingen**  
+   Corrigeer ionenverhoudingen gericht op smaakbalans (Cl⁻/SO₄²⁻) en mondgevoel.
+
+5. **Zout + zuur → pH-doel**  
+   Integreer minerale correcties met zuurtoevoeging om het gewenste mash pH-bereik te bereiken.
+
+6. **Capstone: Volledig automatisch waterdesign**  
+   Ontwerp voor een Tripel, IPA of Stout een compleet waterprofiel – inclusief blending, zoutstrategie en pH-correctie – via geautomatiseerde optimalisatie.
+
+---
+
+Deze workflow weerspiegelt de industriële realiteit:  
+waterdesign is geen losse berekening, maar een gekoppeld chemisch systeem waarin ionensamenstelling, alkaliniteit en pH elkaar beïnvloeden.
+
 ---
 
 ### 1. Mash pH model (Henderson–Hasselbalch)
