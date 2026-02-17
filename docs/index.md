@@ -13,10 +13,10 @@ van wateranalyse tot automatische stijlgebaseerde optimalisatie.
 
 ## Leerpad – Geïntegreerd waterdesign
 
-Deze zes notebooks vormen samen één coherente ontwerpcyclus voor brouwwater.  
-Ze bouwen conceptueel én computationeel op elkaar voort.
+Deze zes notebooks vormen samen één geïntegreerde ontwerpcyclus voor brouwwater.  
+Ze bouwen conceptueel én computationeel op elkaar voort en leiden van wateranalyse tot volledig geautomatiseerde stijlgebaseerde optimalisatie.
 
-**Aanbevolen volgorde:**
+**Aanbevolen volgorde**
 
 1. **Zuur-basische basis (HH-model)**  
    Begrijp hoe bufferwerking en zuurtoevoeging de maisch-pH beïnvloeden.
@@ -28,13 +28,13 @@ Ze bouwen conceptueel én computationeel op elkaar voort.
    Ontwerp mengstrategieën (bv. leidingwater + RO-water) om een doelprofiel te benaderen.
 
 4. **Zouttoevoegingen**  
-   Corrigeer ionenverhoudingen gericht op smaakbalans (Cl⁻/SO₄²⁻) en mondgevoel.
+   Corrigeer ionenverhoudingen gericht op smaakbalans (Cl⁻/SO₄²⁻), mondgevoel en vergistingsgedrag.
 
 5. **Zout + zuur → pH-doel**  
    Integreer minerale correcties met zuurtoevoeging om het gewenste mash pH-bereik te bereiken.
 
-6. **Capstone: Volledig automatisch waterdesign**  
-   Ontwerp voor een Tripel, IPA of Stout een compleet waterprofiel – inclusief blending, zoutstrategie en pH-correctie – via geautomatiseerde optimalisatie.
+6. **Capstone – Volledig automatisch waterdesign**  
+   Ontwerp voor een Tripel, IPA of Stout een compleet waterprofiel — inclusief blending, zoutstrategie en pH-correctie — via geautomatiseerde optimalisatie.
 
 ---
 
