@@ -8,7 +8,10 @@ Deze repository bevat interactieve Python-oefeningen die aansluiten bij het Belg
 
 ## Hoofdstuk 2 – Water
 
-Deze vijf notebooks vormen samen één geïntegreerde waterdesign-workflow: van wateranalyse tot mash pH-targeting.
+Deze notebooks vormen samen één geïntegreerde waterdesign-workflow: 
+van wateranalyse tot automatische stijlgebaseerde optimalisatie.
+
+---
 
 ### 1. Mash pH model (Henderson–Hasselbalch)
 
@@ -44,6 +47,14 @@ Deze vijf notebooks vormen samen één geïntegreerde waterdesign-workflow: van 
 
 ### 5. Zout + zuur → pH-doel in de maisch (gekoppeld aan HH-model)
 
-<a href="https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/05_Zout_zuur_naar_mash_pH_doel.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/05_Zout_zuur_naar_mash_pH_doel.ipynb" target="_blank" rel="noopener">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+</a>
+
+---
+
+### 6. Capstone – Volledig automatisch waterdesign (Tripel / IPA / Stout)
+
+<a href="https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/06_Capstone_AutoWaterDesign_Tripel_IPA_Stout.ipynb" target="_blank" rel="noopener">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
 </a>
