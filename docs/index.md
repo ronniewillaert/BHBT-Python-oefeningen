@@ -8,6 +8,8 @@ Deze repository bevat interactieve Python-oefeningen die aansluiten bij het Belg
 
 ## Hoofdstuk 2 – Water
 
+Deze vijf notebooks vormen samen één geïntegreerde waterdesign-workflow: van wateranalyse tot mash pH-targeting.
+
 ### 1. Mash pH model (Henderson–Hasselbalch)
 
 <a href="https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/01_Mash_pH_model_HH.ipynb" target="_blank" rel="noopener">
