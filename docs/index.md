@@ -6,7 +6,7 @@ Deze repository bevat interactieve Python-oefeningen die aansluiten bij het Belg
 
 ## Deel II – Grondstoffen
 
-### H2 – Water
+### Hoofdstuk 2 – Water
 
 **Mash pH model (Henderson–Hasselbalch)**
 
