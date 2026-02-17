@@ -16,7 +16,7 @@ Deze repository bevat interactieve Python-oefeningen die aansluiten bij het Belg
 
 ---
 
-### 2. Waterprofiel & residuele alkaliniteit
+### 2. Waterprofiel & Residual Alkalinity (RA)
 
 <a href="https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/02_Waterprofiel_RA.ipynb" target="_blank" rel="noopener">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
@@ -24,7 +24,7 @@ Deze repository bevat interactieve Python-oefeningen die aansluiten bij het Belg
 
 ---
 
-### 3. Water mengen & doelprofieloptimalisatie
+### 3. Waterblending & doelprofieloptimalisatie
 
 <a href="https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/03_Water_blending_optimizer.ipynb" target="_blank" rel="noopener">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
