@@ -33,14 +33,20 @@ https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/b
 
 ## Hoofdstuk 2 — Water
 
-De zes notebooks vormen samen één geïntegreerde waterdesign-workflow:
+De zes notebooks vormen samen één geïntegreerde waterdesign-workflow:  
+van fundamentele zuur–base-chemie tot volledig geautomatiseerde stijlgebaseerde optimalisatie.
 
-1. Mash pH model (Henderson–Hasselbalch)
-2. Waterprofiel & Residual Alkalinity
-3. Waterblending
-4. Zouttoevoegingen
-5. Zout + zuur → pH-doel
-6. Capstone — Volledig automatisch waterdesign
+1. **[Mash pH model (Henderson–Hasselbalch)](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/01_Mash_pH_model_HH.ipynb)**
+
+2. **[Waterprofiel & Residual Alkalinity (RA)](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/02_Waterprofiel_RA.ipynb)**
+
+3. **[Waterblending & doelprofieloptimalisatie](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/03_Water_blending_optimizer.ipynb)**
+
+4. **[Zouttoevoegingen & stijlgebaseerde waterdesign](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/04_Zouttoevoegingen_stijl_waterdesign.ipynb)**
+
+5. **[Zout + zuur → pH-doel in de maisch](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/05_Zout_zuur_naar_mash_pH_doel.ipynb)**
+
+6. **[Capstone — Volledig automatisch waterdesign (Tripel / IPA / Stout)](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/06_Capstone_AutoWaterDesign_Tripel_IPA_Stout.ipynb)**
 
 Deze workflow weerspiegelt industriële realiteit:  
 waterdesign is een gekoppeld chemisch systeem waarin ionensamenstelling, alkaliniteit en pH elkaar beïnvloeden.
