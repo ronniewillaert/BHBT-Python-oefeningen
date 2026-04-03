@@ -31,9 +31,8 @@ Theorie  →  Model  →  Simulatie  →  Procesinzicht
 
 | # | Notebook | Beschrijving |
 |---|----------|--------------|
-| 1 | [Schematisch IPO-model](notebooks/01_Deel_I_Context/H1_Belgische_brouwerijsector/BHBT_H1_Oefening1_Schematisch_IPO_model.ipynb) | Het brouwproces als gekoppeld input–proces–output-systeem. Interactieve sliders om het effect van variatie in moutmassa, extractopbrengst, kookintensiteit en vergistingsgraad op OG, FG en ABV te verkennen. Inclusief gevoeligheidsanalyse en Monte Carlo-simulatie. |
+| 1 | [Schematisch IPO-model](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/01_Deel_I_Context/H1_Belgische_brouwerijsector/BHBT_H1_Oefening1_Schematisch_IPO_model.ipynb) | Het brouwproces als gekoppeld input–proces–output-systeem. Interactieve sliders om het effect van variatie in moutmassa, extractopbrengst, kookintensiteit en vergistingsgraad op OG, FG en ABV te verkennen. Inclusief gevoeligheidsanalyse en Monte Carlo-simulatie. |
 
-https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/01_Deel_I_Context/H1_Belgische_brouwerijsector/BHBT_H1_Oefening1_Schematisch_IPO_model.ipynb
 ---
 
 ### Deel II — Grondstoffen
@@ -44,12 +43,12 @@ Zes notebooks die samen een geïntegreerde waterdesign-workflow vormen — van f
 
 | # | Notebook | Beschrijving |
 |---|----------|--------------|
-| 1 | [Mash pH-model (Henderson–Hasselbalch)](notebooks/02_Deel_II_Grondstoffen/H2_Water/01_Mash_pH_model_HH.ipynb) | Zuur–base-evenwichten en pH-voorspelling in de maisch. |
-| 2 | [Waterprofiel & Residual Alkalinity](notebooks/02_Deel_II_Grondstoffen/H2_Water/02_Waterprofiel_RA.ipynb) | Ionenbalans, alkaliniteit en het RA-concept van Kolbach. |
-| 3 | [Waterblending & doelprofieloptimalisatie](notebooks/02_Deel_II_Grondstoffen/H2_Water/03_Water_blending_optimizer.ipynb) | Optimale mengverhouding van waterbronnen berekenen. |
-| 4 | [Zouttoevoegingen & stijlgebaseerde waterdesign](notebooks/02_Deel_II_Grondstoffen/H2_Water/04_Zouttoevoegingen_stijl_waterdesign.ipynb) | Zouten doseren om een doelwaterprofiel te bereiken. |
-| 5 | [Zout + zuur → pH-doel in de maisch](notebooks/02_Deel_II_Grondstoffen/H2_Water/05_Zout_zuur_naar_mash_pH_doel.ipynb) | Gecombineerde zout- en zuurtoevoegingen voor pH-sturing. |
-| 6 | [Capstone: AutoWaterDesign (Tripel / IPA / Stout)](notebooks/02_Deel_II_Grondstoffen/H2_Water/06_Capstone_AutoWaterDesign_Tripel_IPA_Stout.ipynb) | Volledig geautomatiseerd waterdesign voor drie Belgische/internationale stijlen. |
+| 1 | [Mash pH-model (Henderson–Hasselbalch)](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/01_Mash_pH_model_HH.ipynb) | Zuur–base-evenwichten en pH-voorspelling in de maisch. |
+| 2 | [Waterprofiel & Residual Alkalinity](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/02_Waterprofiel_RA.ipynb) | Ionenbalans, alkaliniteit en het RA-concept van Kolbach. |
+| 3 | [Waterblending & doelprofieloptimalisatie](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/03_Water_blending_optimizer.ipynb) | Optimale mengverhouding van waterbronnen berekenen. |
+| 4 | [Zouttoevoegingen & stijlgebaseerde waterdesign](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/04_Zouttoevoegingen_stijl_waterdesign.ipynb) | Zouten doseren om een doelwaterprofiel te bereiken. |
+| 5 | [Zout + zuur → pH-doel in de maisch](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/05_Zout_zuur_naar_mash_pH_doel.ipynb) | Gecombineerde zout- en zuurtoevoegingen voor pH-sturing. |
+| 6 | [Capstone: AutoWaterDesign (Tripel / IPA / Stout)](https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/02_Deel_II_Grondstoffen/H2_Water/06_Capstone_AutoWaterDesign_Tripel_IPA_Stout.ipynb) | Volledig geautomatiseerd waterdesign voor drie Belgische/internationale stijlen. |
 
 > **Kernidee:** waterdesign is geen losse berekening, maar een gekoppeld chemisch systeem waarin ionensamenstelling, alkaliniteit en pH elkaar beïnvloeden.
 
@@ -140,6 +139,7 @@ Open een [issue](https://github.com/ronniewillaert/BHBT-Python-oefeningen/issues
 ## Licentie
 
 Dit project valt onder de [MIT-licentie](LICENSE).
+
 
 
 
