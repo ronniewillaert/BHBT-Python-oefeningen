@@ -33,6 +33,7 @@ Theorie  →  Model  →  Simulatie  →  Procesinzicht
 |---|----------|--------------|
 | 1 | [Schematisch IPO-model](notebooks/01_Deel_I_Context/H1_Belgische_brouwerijsector/BHBT_H1_Oefening1_Schematisch_IPO_model.ipynb) | Het brouwproces als gekoppeld input–proces–output-systeem. Interactieve sliders om het effect van variatie in moutmassa, extractopbrengst, kookintensiteit en vergistingsgraad op OG, FG en ABV te verkennen. Inclusief gevoeligheidsanalyse en Monte Carlo-simulatie. |
 
+https://colab.research.google.com/github/ronniewillaert/BHBT-Python-oefeningen/blob/main/notebooks/01_Deel_I_Context/H1_Belgische_brouwerijsector/BHBT_H1_Oefening1_Schematisch_IPO_model.ipynb
 ---
 
 ### Deel II — Grondstoffen
